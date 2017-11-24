@@ -31,3 +31,7 @@ advertNumber = {
   }
 };
 console.log(advertNumber);
+
+
+var mapRemFad = document.querySelector(".map--faded");
+mapRemFad.classList.remove("map--faded");
